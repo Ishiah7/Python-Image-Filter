@@ -1,6 +1,6 @@
 # Python-Image-Filter
 
-This is a Python Image Filter to learn Python
+This is a Python Image Filter i made to learn Python
 
 Filters include:
 >Blur
